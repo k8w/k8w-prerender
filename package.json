@@ -1,0 +1,27 @@
+{
+  "name": "k8w-prerender",
+  "version": "1.0.0",
+  "description": "SEO Prerender for SPA, using PhantomJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "log4js": "^0.6.38",
+    "phantomjs-prebuilt": "^2.1.16"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k8w/k8w-prerender.git"
+  },
+  "keywords": [
+    "k8w",
+    "prerender",
+    "seo",
+    "spa",
+    "phantom"
+  ],
+  "author": "k8w",
+  "license": "Apache-2.0"
+}
